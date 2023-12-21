@@ -219,15 +219,16 @@ Parts:
   ```
 </details>
 
-
-
 ## Expand the installation by adding a new W. Indexer node on Server 3
 
 <details></br>
 
-  > [!CAUTION]
-  > **Remember, Server 3 is the one that contains the W. Dashboard and the W. Indexer [main-node]**
   
+  > ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
+  > 
+  > **CAUTION**
+  > Remember, Server 3 is the one that contains the W. Dashboard and the W. Indexer [main-node]
+
   1. Get the necessary files
   ```shell
   curl -sO https://packages.wazuh.com/4.6/config.yml
