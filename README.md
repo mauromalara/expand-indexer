@@ -20,7 +20,7 @@
 
 Parts:
 1. [Install the central components](#install-the-central-components-master-worker-dashboard-and-indexer)
-2. [Add a new node to the Wazuh Indexer installation](expand-the-installation-by-adding-a-new-w-indexer-node-on-server-3)
+2. [Add a new node to the Wazuh Indexer installation](#expand-the-installation-by-adding-a-new-w-indexer-node-on-server-3)
 
 
 ## Install the central components master, worker, dashboard, and indexer
